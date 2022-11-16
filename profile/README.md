@@ -32,7 +32,7 @@ Future Features:
 - Other App Plugins (Like for youtube, twitter, spotify)
 
 Currently Possible TechStack:
-- Frontend: Android - Java, Django
+- Frontend: Android - Kotlin, Web - NodeJS
 - Middleware: REST API
-- Backend: Python - Django
-- Cloud: Amazon Web Services
+- Backend: Firebase Authentication, Firestore and RealTimeDB
+- Cloud: Google Firebase
