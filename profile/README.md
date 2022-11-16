@@ -1,4 +1,4 @@
-# SwitchApp
+# SpaceApp (Previously known as SwitchApp)
 
 What We Are:
 - Social Platform
